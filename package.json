@@ -10,6 +10,7 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@heroicons/react": "^2.1.5",
     "cropperjs": "^1.6.2",
     "react": "^18.3.1",
     "react-cropper": "^2.3.3",
