@@ -13,7 +13,7 @@ sebagai IT support saya sangat malas. karena orang malas pasti berfikir agar bis
 ### Buat image menggunakan Dokerfile
 
 ```bash
-sudo docker build -t snaptotext
+sudo docker build . -t snaptotext
 ```
 
 membuat image dengan tag name "snaptotext" menggunakan node:20-alpine, npm dan library serve untuk dijalankan pada port 80 di container
